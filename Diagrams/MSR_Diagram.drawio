@@ -1,0 +1,128 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="OiruEhSNc-cHPhrnFZNB">
+    <mxGraphModel dx="8" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0oY0yhGFXMviBRu67rsU-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Material Search Report&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="185" x="1183" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-53" edge="1" parent="1" source="0oY0yhGFXMviBRu67rsU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1429.9999999999998" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="135.47" width="330" x="1080" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Material" vertex="1">
+          <mxGeometry height="30" width="110" x="1090" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="20" width="70" x="1207" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="to:" vertex="1">
+          <mxGeometry height="30" width="30" x="1277" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="20" width="70" x="1307" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Material Group" vertex="1">
+          <mxGeometry height="30" width="110" x="1090" y="141" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="20" width="50" x="1207" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="to:" vertex="1">
+          <mxGeometry height="30" width="30" x="1277" y="141" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="20" width="50" x="1307" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-15" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Solution Screen&lt;/h1&gt;&lt;p&gt;This section allows users to filter the Material Search Report output. Users can restrict results by specifying a range of Material numbers (MARA-MATNR), Material Group (MARA-MATKL), or Material Description (MAKT-MAKTX).&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="540" x="880" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-16" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="60" width="500" x="1170" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-17" parent="0oY0yhGFXMviBRu67rsU-16" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="40" width="500" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-18" parent="0oY0yhGFXMviBRu67rsU-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=1" value="&lt;b style=&quot;font-size: 12px; text-align: left;&quot;&gt;Material Number&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="122" as="geometry">
+            <mxRectangle height="40" width="122" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-19" parent="0oY0yhGFXMviBRu67rsU-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=1" value="&lt;b style=&quot;font-size: 12px; text-align: left;&quot;&gt;Material Type&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="113" x="122" as="geometry">
+            <mxRectangle height="40" width="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-20" parent="0oY0yhGFXMviBRu67rsU-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=4;fontStyle=1" value="&lt;b style=&quot;font-size: 12px; text-align: left;&quot;&gt;Description&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="102" x="235" as="geometry">
+            <mxRectangle height="40" width="102" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-43" parent="0oY0yhGFXMviBRu67rsU-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=4;" value="&lt;b style=&quot;font-size: 12px; text-align: left;&quot;&gt;Material Group&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="92" x="337" as="geometry">
+            <mxRectangle height="40" width="92" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-45" parent="0oY0yhGFXMviBRu67rsU-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=4;" value="&lt;b style=&quot;font-size: 12px; text-align: left;&quot;&gt;Created on&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="71" x="429" as="geometry">
+            <mxRectangle height="40" width="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-21" parent="0oY0yhGFXMviBRu67rsU-16" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="20" width="500" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-22" parent="0oY0yhGFXMviBRu67rsU-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="20" width="122" as="geometry">
+            <mxRectangle height="20" width="122" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-23" parent="0oY0yhGFXMviBRu67rsU-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="20" width="113" x="122" as="geometry">
+            <mxRectangle height="20" width="113" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-24" parent="0oY0yhGFXMviBRu67rsU-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="20" width="102" x="235" as="geometry">
+            <mxRectangle height="20" width="102" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-44" parent="0oY0yhGFXMviBRu67rsU-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="20" width="92" x="337" as="geometry">
+            <mxRectangle height="20" width="92" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-46" parent="0oY0yhGFXMviBRu67rsU-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="20" width="71" x="429" as="geometry">
+            <mxRectangle height="20" width="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-49" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ALV&lt;/h1&gt;&lt;p&gt;The ABAP List Viewer (ALV) grid displays the material data based on the selection parameters. It maps material master details (MARA) alongside localized material descriptions (MAKT) into a clean, interactive tabular report.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="580" x="1110" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-50" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Columns:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Material Number:&lt;/b&gt; MARA-MATNR&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Created on:&lt;/b&gt; MARA-ERSDA&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Material Type:&lt;/b&gt; MARA-MTART&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Material Group:&lt;/b&gt; MARA-MATKL&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Base Measuring unit:&lt;/b&gt; MARA-MEINS&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Description:&lt;/b&gt; MAKT-MAKTX&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="250" x="860" y="321" as="geometry" />
+        </mxCell>
+        <mxCell id="0oY0yhGFXMviBRu67rsU-51" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Joins:&lt;/h1&gt;&lt;div&gt;&lt;div&gt;MARA → MAKT = MATNR&lt;/div&gt;&lt;div&gt;(Left join to avoid any missing data because of missing description)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="470" x="860" y="531" as="geometry" />
+        </mxCell>
+        <mxCell id="WAj2-GwXLmZkCdrVb5Nw-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Material Description" vertex="1">
+          <mxGeometry height="30" width="110" x="1090" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="WAj2-GwXLmZkCdrVb5Nw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="20" width="70" x="1207" y="177" as="geometry" />
+        </mxCell>
+        <mxCell id="WAj2-GwXLmZkCdrVb5Nw-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="to:" vertex="1">
+          <mxGeometry height="30" width="30" x="1277" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="WAj2-GwXLmZkCdrVb5Nw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="20" width="73" x="1307" y="177" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
