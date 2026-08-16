@@ -1,7 +1,7 @@
 *&---------------------------------------------------------------------*
 *& Report Z_MATERIAL_ASSIGNMENT
 *&---------------------------------------------------------------------*
-*& Created by : Moaz Khaled & Yousef Waleed
+*& Created by : Yousef Waleed
 *& Created At : 11/8/2026
 *&---------------------------------------------------------------------*
 REPORT Z_MATERIAL_SEARCH MESSAGE-ID zsd.
