@@ -85,4 +85,4 @@ Material_Search_Report/
 
 ## Author
 
-Created by **Moaz Khaled & Yousef Waleed**
+Created by **Yousef Waleed**
